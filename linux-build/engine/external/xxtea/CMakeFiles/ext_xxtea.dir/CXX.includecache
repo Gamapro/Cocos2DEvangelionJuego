@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gama/Programacion/Evangelion/cocos2d/external/xxtea/xxtea.cpp
+xxtea.h
+/home/gama/Programacion/Evangelion/cocos2d/external/xxtea/xxtea.h
+memory.h
+-
+stdlib.h
+-
+
+/home/gama/Programacion/Evangelion/cocos2d/external/xxtea/xxtea.h
+stddef.h
+-
+inttypes.h
+-
+stdint.h
+-
+

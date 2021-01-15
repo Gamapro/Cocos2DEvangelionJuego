@@ -1,0 +1,29 @@
+Mi juego va a ser un tipo Boberman
+
+// Descripcion
+
+Son 4 concursantes
+Puede jugarse de 1 o 2 jugadores, el resto seran generados por el PC
+Es un mapa con obstaculos; edificios, y pasillos
+El jugador puede poner bombas
+Al explotar la bomba, se pintan las casillas adyacentes a la bomba, incluyendo la casilla de la propia bomba
+Si las 9 casillas que rodean un edificio estan pintadas del mismo color, el jugador
+de ese color gana el edificio
+
+// Puntaje
+Cada casilla pintada vale 50 puntos
+Cada edificio pintado vale 200 puntos
+
+
+// Tiempo
+El juego tendra un limite de 3 minutos
+
+
+// Ganar
+Gana el que tenga mas puntos despues de los 3 minutos
+
+
+// Link
+Hay un juego parecido, anexo video y link del juego
+https://www.minijuegos.mx/juego/bob-esponja-boo-or-boom
+

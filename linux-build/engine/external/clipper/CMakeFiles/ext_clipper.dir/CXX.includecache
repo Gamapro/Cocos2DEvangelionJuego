@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gama/Programacion/Evangelion/cocos2d/external/clipper/clipper.cpp
+clipper.hpp
+/home/gama/Programacion/Evangelion/cocos2d/external/clipper/clipper.hpp
+cmath
+-
+vector
+-
+algorithm
+-
+stdexcept
+-
+cstring
+-
+cstdlib
+-
+ostream
+-
+functional
+-
+
+/home/gama/Programacion/Evangelion/cocos2d/external/clipper/clipper.hpp
+vector
+-
+set
+-
+stdexcept
+-
+cstring
+-
+cstdlib
+-
+ostream
+-
+functional
+-
+
